@@ -14,4 +14,4 @@
 
 ## List of problems
 
-* Lis 1
+* [Problems](https://github.com/kgraczyk/SL-MLinPhys/blob/main/SL_lecture_classes.ipynb)

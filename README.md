@@ -14,4 +14,6 @@
 
 ## List of problems
 
-* [Problems](https://github.com/kgraczyk/SL-MLinPhys/blob/main/SL_lecture_classes.ipynb)
+* [List 1](https://github.com/kgraczyk/SL-MLinPhys/blob/main/SL_lecture_classes.ipynb)
+* [List 2](https://github.com/kgraczyk/SL-MLinPhys/blob/main/list2.ipynb)
+
